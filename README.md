@@ -1,5 +1,37 @@
-# momentum clone 2022
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=F7DF1E&text=Momentum%20Clone%202022)
+
+</div>
+<div>
+
+  ## 📌 Momentum Clone 2022
+  Momentum clone 2022 makes Chrome App with JavaScript.
+  <br/>
+  <br/>
+  
+  ## 💻 Functions
+  ✔ JS Clock <br/>
+  ✔ JS To Do List <br/>
+  ✔ Get Geolocation <br/>
+  ✔ Get Weather Information <br/>
+  ✔ Deploy to Github Pages <br/>
+  <br/>
+  <br/>
+  
+  ## 🔧 Tech Stack
+  
+  
+  ## 💡 What I Learned
+  ✔ Variables <br/>
+  ✔ Functions <br/>
+  ✔ Data Types <br/>
+  ✔ Arrays, Objects <br/>
+  ✔ DOM Functions <br/>
+  ✔ Events <br/>
+  ✔ if/else/for <br/>
+  
+</div>
 ## INTRODUCTION
 
 ## WELCOME TO JAVASCRIPT
