@@ -19,7 +19,6 @@
   ✔ Get Random Quotes and Backgrouds <br/>
   ✔ Deploy to Github Pages <br/>
   <br/>
-  <br/>
   
   ## 🔧 Tech Stack
   <!--HTML5-->
@@ -36,16 +35,15 @@
   <br/>
   <br/>
   
-  ### 👀 Demo video
-  ***
-  <img width="30%" src="https://user-images.githubusercontent.com/74771124/222959155-7c7131a8-bed3-4581-86c7-7420b6e17b9e.gif"/>
+  ## 👀 Demo video
+  [![Video Lable](http://img.youtube.com/vi/gJfUAuQk6sA/0.jpg)](https://youtube.be/gJfUAuQk6sA)
   <br/>
   <br/>
   
-  ### 🔗Deployment URL
-  ***
-  #### https://jiyu-kim.github.io/kokoa-clone-2022/
-  
+  ## 🔗Deployment URL
+  https://jiyu-kim.github.io/momentum-clone-2022/
+  <br/>
+  <br/>
   
   ## 💡 What I Learned
   ✔ Variables <br/>
